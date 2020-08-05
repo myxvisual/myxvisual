@@ -1,7 +1,8 @@
 # Welcome
 
 <p align="center">
-<img style="width: 100%;" src="https://cdn.jsdelivr.net/gh/myxvisual/myxvisual/images/irvan-smith-DOJL8L5NG0g-unsplash.jpg" />
+<img style="width: 100%;" src="https://raw.githubusercontent.com/myxvisual/myxvisual/master/images/irvan-smith-DOJL8L5NG0g-unsplash.jpg" />
+<!-- <img style="width: 100%;" src="https://cdn.jsdelivr.net/gh/myxvisual/myxvisual/images/irvan-smith-DOJL8L5NG0g-unsplash.jpg" /> -->
 </p>
 
 <p align="center">
