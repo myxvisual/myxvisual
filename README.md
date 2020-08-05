@@ -1,7 +1,7 @@
 # Welcome
-<p align="center">
-[<img style="width: 1000%;" src="https://cdn.jsdelivr.net/gh/myxvisual/myxvisual/images/irvan-smith-cwqG1N1AtI0-unsplash.jpg" />](http://github.com/myxvisual)
-</p>
+
+[<img style="width: 100%;" src="https://cdn.jsdelivr.net/gh/myxvisual/myxvisual/images/irvan-smith-cwqG1N1AtI0-unsplash.jpg" />](http://github.com/myxvisual)
+
 <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/typescript%20-%23007ACC?style=flat-square&logo=typescript&logoColor=white" />
