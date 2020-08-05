@@ -1,6 +1,6 @@
 # Welcome
 
-[<img style="width: 100%;" src="https://cdn.jsdelivr.net/gh/myxvisual/myxvisual/images/irvan-smith-cwqG1N1AtI0-unsplash.jpg" />](http://github.com/myxvisual)
+<img style="width: 100%;" src="https://cdn.jsdelivr.net/gh/myxvisual/myxvisual/images/irvan-smith-cwqG1N1AtI0-unsplash.jpg" />
 
 <p align="center">
 <img src="https://img.shields.io/badge/javascript%20-%23323330?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
