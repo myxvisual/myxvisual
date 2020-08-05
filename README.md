@@ -1,6 +1,32 @@
 ### Hi there 👋
 
 <!--START_SECTION:waka-->
+**🐱 My GitHub Data** 
+
+> 🏆 638 Contributions in year 2020
+ > 
+> 📦 Used 679.5 kB in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 26 Public Repositories 
+ > 
+> 🔑 33 Owned Private Repositories 
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Shanghai
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+```
+
+
 <!--END_SECTION:waka-->
 
 <!--
