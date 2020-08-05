@@ -23,9 +23,6 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a?style=flat-square&logo=react&logoColor=%2361DAFB" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=myxvisual&count_private=true&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
-</p>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -55,3 +52,7 @@ No Activity tracked this Week
 
 
 <!--END_SECTION:waka-->
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=myxvisual&count_private=true&show_icons=true&theme=dracula" alt="my github stats" width="450"/>
+</p>
