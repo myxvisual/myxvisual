@@ -47,13 +47,13 @@
 
 > 🏆 843 Contributions in year 2020
  > 
-> 📦 Used 693.0 kB in GitHub's Storage 
+> 📦 Used 362.3 kB in GitHub's Storage 
  > 
 > 🚫 Not opted to Hire
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 34 Owned Private Repositories 
+> 🔑 28 Owned Private Repositories 
 
 📊 **This week I spent my time on** 
 
