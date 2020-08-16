@@ -43,31 +43,31 @@
 </p>
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 839 Contributions in 2020
+> 🏆 839 Contributions in the year 2020
  > 
-> 📦 Used 362.2 kB in GitHub's Storage 
+> 📦 362.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 25 Public repositories
  > 
-> 🔑 28 Owned Private Repositories 
+> 🔑 28 Private repositories 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: Asia/Shanghai
+⌚︎ Time zone: Asia/Shanghai
 
-💬 Languages: 
+💬 Programming Languages: 
 TypeScript               23 hrs 54 mins      ███████████████████░░░░░░   77.23% 
 Markdown                 3 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.88% 
 JavaScript               2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.65% 
 JSON                     51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75% 
 Text                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.63%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  30 hrs 56 mins      █████████████████████████   100.0%
 
 ```
