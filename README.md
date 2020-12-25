@@ -61,10 +61,11 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 16 mins             █████████████████████░░░░   85.77% 
+Other                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   14.23%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  19 mins             █████████████████████████   100.0%
 
 ```
 
