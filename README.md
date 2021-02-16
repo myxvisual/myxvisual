@@ -61,11 +61,10 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs 23 mins       ███████████████████████░░   95.01% 
-Markdown                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.99%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
