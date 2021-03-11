@@ -53,7 +53,7 @@
  > 
 > 📜 30 Public Repositories 
  > 
-> 🔑 34 Private Repositories  
+> 🔑 33 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
