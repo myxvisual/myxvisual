@@ -45,7 +45,7 @@
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 143 Contributions in the Year 2021
+> 🏆 142 Contributions in the Year 2021
  > 
 > 📦 505.7 kB Used in Github's Storage 
  > 
