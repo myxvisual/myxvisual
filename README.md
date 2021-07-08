@@ -70,7 +70,7 @@ VS Code                  2 mins              ███████████�
 ```
 
 
- Last Updated on 07/07/2021
+ Last Updated on 08/07/2021
 <!--END_SECTION:waka-->
 
 <pre align="center">
