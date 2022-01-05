@@ -43,11 +43,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-779%20hrs%2042%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 11 Contributions in the Year 2022
+> 🏆 10 Contributions in the Year 2022
  > 
 > 📦 926.6 kB Used in GitHub's Storage 
  > 
