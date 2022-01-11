@@ -75,7 +75,7 @@ VS Code                  22 hrs 36 mins      ███████████�
 ```
 
 
- Last Updated on 10/01/2022
+ Last Updated on 11/01/2022
 <!--END_SECTION:waka-->
 
 <pre align="center">
