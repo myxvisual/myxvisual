@@ -43,7 +43,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-812%20hrs%2017%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -55,7 +55,7 @@
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 44 Private Repositories  
+> 🔑 45 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
