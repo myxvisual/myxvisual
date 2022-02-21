@@ -43,7 +43,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -75,7 +75,7 @@ VS Code                  38 hrs 5 mins       ███████████�
 ```
 
 
- Last Updated on 21/02/2022 16:53:01 UTC
+ Last Updated on 21/02/2022 17:13:33 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
