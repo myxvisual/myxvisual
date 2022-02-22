@@ -43,11 +43,11 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C000%20hrs%2035%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 262 Contributions in the Year 2022
+> 🏆 261 Contributions in the Year 2022
  > 
 > 📦 962.7 kB Used in GitHub's Storage 
  > 
@@ -75,7 +75,7 @@ VS Code                  38 hrs 5 mins       ███████████�
 ```
 
 
- Last Updated on 22/02/2022 11:12:50 UTC
+ Last Updated on 22/02/2022 12:23:08 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
