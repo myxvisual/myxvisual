@@ -43,7 +43,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C914%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C915%20hrs%205%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,7 +53,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 24 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 55 Private Repositories  
  > 
@@ -75,7 +75,7 @@ VS Code                  55 hrs 14 mins      ███████████�
 ```
 
 
- Last Updated on 25/07/2022 04:33:10 UTC
+ Last Updated on 25/07/2022 05:25:36 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
