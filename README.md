@@ -47,6 +47,8 @@
 
 **🐱 My GitHub Data** 
 
+> 🏆 4,368 Contributions in the Year 2022
+ > 
 > 📦 1.6 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -73,7 +75,7 @@ VS Code                  4 hrs 59 mins       ███████████�
 ```
 
 
- Last Updated on 25/08/2022 05:20:34 UTC
+ Last Updated on 25/08/2022 06:07:52 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
