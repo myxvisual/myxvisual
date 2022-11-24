@@ -43,7 +43,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C165%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C175%20hrs%201%20min-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,25 +57,8 @@
  > 
 > 🔑 60 Private Repositories  
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               12 hrs 50 mins      ████████████████░░░░░░░░░   65.55% 
-JSON                     3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-C++                      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.85% 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.66% 
-JavaScript               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
-
-🔥 Editors: 
-VS Code                  19 hrs 36 mins      █████████████████████████   100.0%
-
-```
-
-
- Last Updated on 24/11/2022 16:18:39 UTC
+ Last Updated on 24/11/2022 16:48:44 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
