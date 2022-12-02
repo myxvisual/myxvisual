@@ -47,7 +47,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 4,557 Contributions in the Year 2022
+> 🏆 4,558 Contributions in the Year 2022
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -57,8 +57,25 @@
  > 
 > 🔑 60 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 02/12/2022 16:46:29 UTC
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   34.45% 
+TypeScript               5 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   27.02% 
+Other                    2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.15% 
+Bash                     2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.12% 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   4.96%
+
+🔥 Editors: 
+VS Code                  20 hrs 36 mins      █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 02/12/2022 17:12:24 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
