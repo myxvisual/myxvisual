@@ -57,8 +57,23 @@
  > 
 > 🔑 60 Private Repositories  
  > 
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 24/01/2023 16:45:26 UTC
+```text
+⌚︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 26 mins             ████████████████████████░   99.29% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.38% 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+
+🔥 Editors: 
+VS Code                  26 mins             █████████████████████████   100.0%
+
+```
+
+
+ Last Updated on 24/01/2023 17:11:48 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
