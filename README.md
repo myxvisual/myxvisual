@@ -43,7 +43,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C258%20hrs%2050%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -63,15 +63,15 @@
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 ```
 
 
- Last Updated on 09/02/2023 16:18:38 UTC
+ Last Updated on 09/02/2023 16:47:29 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
