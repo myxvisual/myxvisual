@@ -49,7 +49,7 @@
 
 > 🏆 5 Contributions in the Year 2023
  > 
-> 📦 1.8 MB Used in GitHub's Storage 
+> 📦 1.7 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,7 +71,7 @@ VS Code                  6 mins              ███████████�
 ```
 
 
- Last Updated on 15/02/2023 17:12:57 UTC
+ Last Updated on 15/02/2023 17:36:50 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
