@@ -43,13 +43,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C350%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C350%20hrs%2010%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
-> 🏆 152 Contributions in the Year 2023
+> 🏆 153 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,7 +66,7 @@ Wednesday                14405 commits       ████░░░░░░░�
 Thursday                 14302 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 Friday                   11990 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 Saturday                 4596 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Sunday                   7158 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Sunday                   7159 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 
@@ -87,7 +87,7 @@ VS Code                  30 hrs 24 mins      ███████████�
 ```
 
 
- Last Updated on 28/05/2023 13:40:33 UTC
+ Last Updated on 28/05/2023 14:14:57 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
