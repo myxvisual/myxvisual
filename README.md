@@ -87,6 +87,6 @@ No Activity Tracked This Week
 <!--END_SECTION:waka-->
 
 <pre align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=myxvisual&count_private=true&show_icons=true&theme=dracula" alt="my github stats" width="55%" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=myxvisual&count_private=true&show_icons=true&theme=dracula" alt="my github stats" width="55%" /> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myxvisual&layout=compact&theme=dracula" alt="my top langs" width="55%"/>
 </pre>
