@@ -49,6 +49,8 @@
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
+> 🏆 584 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 26 Public Repositories 
@@ -85,7 +87,7 @@ VS Code                  4 hrs 4 mins        ███████████�
 ```
 
 
- Last Updated on 28/11/2024 17:21:25 UTC
+ Last Updated on 28/11/2024 17:47:45 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
