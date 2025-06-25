@@ -43,13 +43,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C853%20hrs%2045%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 103 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +87,7 @@ Trae                     17 hrs 29 mins      ███████████�
 ```
 
 
- Last Updated on 25/06/2025 07:25:07 UTC
+ Last Updated on 25/06/2025 07:48:34 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
