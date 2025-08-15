@@ -49,8 +49,6 @@
 
 > 📦 2.1 MB Used in GitHub's Storage 
  > 
-> 🏆 104 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 28 Public Repositories 
@@ -87,7 +85,7 @@ Trae                     8 hrs 14 mins       ███████████�
 ```
 
 
- Last Updated on 15/08/2025 15:24:45 UTC
+ Last Updated on 15/08/2025 15:50:03 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
