@@ -43,8 +43,6 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C921%20hrs%2051%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.1 MB Used in GitHub's Storage 
@@ -87,7 +85,7 @@ Trae                     8 hrs 23 mins       ███████████�
 ```
 
 
- Last Updated on 03/10/2025 15:25:26 UTC
+ Last Updated on 03/10/2025 16:25:58 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
