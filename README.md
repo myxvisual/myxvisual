@@ -43,7 +43,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C196%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C201%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -57,37 +57,8 @@
  > 
 > 🔑 64 Private Repositories 
  > 
-📅 **I'm Most Productive on Tuesday** 
 
-```text
-Monday                   15055 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-Tuesday                  18153 commits       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Wednesday                14612 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Thursday                 14540 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Friday                   12190 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Saturday                 4783 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Sunday                   7340 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               18 hrs 44 mins      ██████████████████████░░░   86.86 % 
-Less                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
-JavaScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Markdown                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-
-🔥 Editors: 
-Trae                     21 hrs 34 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 11/03/2026 16:21:42 UTC
+ Last Updated on 11/03/2026 17:36:10 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
