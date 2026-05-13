@@ -57,8 +57,37 @@
  > 
 > 🔑 73 Private Repositories 
  > 
+📅 **I'm Most Productive on Tuesday** 
 
- Last Updated on 13/05/2026 20:10:05 UTC
+```text
+Monday                   15405 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Tuesday                  18339 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+Wednesday                14729 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+Thursday                 14636 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Friday                   12247 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Saturday                 4870 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Sunday                   7466 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               36 hrs 41 mins      ██████████████████████░░░   86.94 % 
+CSS                      2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Other                    34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+
+🔥 Editors: 
+Trae                     42 hrs 12 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 13/05/2026 21:41:11 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
