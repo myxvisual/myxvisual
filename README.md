@@ -43,11 +43,13 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C891%20hrs%2030%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 998 Contributions in the Year 2026
+> 🏆 1,000 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,7 +65,7 @@ Tuesday                  8779 commits        █████░░░░░░�
 Wednesday                6454 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
 Thursday                 6042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 Friday                   5194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Saturday                 2778 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Saturday                 2779 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
 Sunday                   3975 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
 ```
 
@@ -74,20 +76,20 @@ Sunday                   3975 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 6 mins       ████████████████░░░░░░░░░   65.94 % 
-YAML                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-TypeScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JavaScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 15 hrs 14 mins      ████████████░░░░░░░░░░░░░   46.40 % 
+Other                    13 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   40.69 % 
+YAML                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+TypeScript               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-Trae                     14 hrs 47 mins      ████████████████░░░░░░░░░   64.51 % 
-Codex CLI                8 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   35.44 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Trae                     19 hrs 44 mins      ███████████████░░░░░░░░░░   60.08 % 
+Codex CLI                11 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   34.81 % 
+Exec Wakatime            1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 ```
 
 
- Last Updated on 24/07/2026 17:13:33 UTC
+ Last Updated on 24/07/2026 19:05:42 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
