@@ -43,7 +43,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C891%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C894%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -76,20 +76,21 @@ Sunday                   3975 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 hrs 14 mins      ████████████░░░░░░░░░░░░░   46.40 % 
-Other                    13 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   40.69 % 
-YAML                     2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-TypeScript               1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Other                    13 hrs 39 mins      ████████████████░░░░░░░░░   62.07 % 
+JavaScript               2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
+YAML                     2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+TypeScript               1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-Trae                     19 hrs 44 mins      ███████████████░░░░░░░░░░   60.08 % 
-Codex CLI                11 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   34.81 % 
-Exec Wakatime            1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Codex CLI                11 hrs 33 mins      █████████████░░░░░░░░░░░░   52.52 % 
+Trae                     7 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.52 % 
+Exec Wakatime            2 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Claude Code              1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
 
- Last Updated on 25/07/2026 16:09:30 UTC
+ Last Updated on 25/07/2026 17:38:00 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
