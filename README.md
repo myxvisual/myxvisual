@@ -43,13 +43,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C894%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C807%20hrs%2029%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs%2029%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.2 MB Used in GitHub's Storage 
  > 
-> 🏆 1,024 Contributions in the Year 2026
+> 🏆 1,027 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,13 +62,13 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   7381 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Tuesday                  8729 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Wednesday                6412 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-Thursday                 5995 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-Friday                   5141 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Saturday                 2778 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Sunday                   3944 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+Monday                   7441 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
+Tuesday                  8779 commits        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
+Wednesday                6455 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Thursday                 6042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+Friday                   5194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Saturday                 2799 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Sunday                   3982 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 ```
 
 
@@ -89,8 +91,33 @@ Exec Wakatime            2 hrs 3 mins        ██░░░░░░░░░�
 Claude Code              1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 12:27:10 UTC
+```text
+⏱ AI Coding Time: 21 hrs 40 mins (98.52%)
+
+✍️ 1,738 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 475,210,806 Input Tokens, 1,656,767 Output Tokens
+
+💵 $2400.93 Estimated AI Cost This Week
+
+🧠 225 AI Sessions, 476 AI Prompts
+
+GPT                      1,124 lines         ████████████████░░░░░░░░░   62.48 % 
+Opus                     675 lines           █████████░░░░░░░░░░░░░░░░   37.52 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Exec-Wakatime            0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 2,746 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 15:35:04 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
