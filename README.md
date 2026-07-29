@@ -62,10 +62,10 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   7442 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Monday                   7442 commits        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
 Tuesday                  8791 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
 Wednesday                6472 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Thursday                 6042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Thursday                 6045 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
 Friday                   5194 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 Saturday                 2799 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 Sunday                   3982 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
@@ -78,31 +78,31 @@ Sunday                   3982 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    46 hrs 45 mins      █████████████████████░░░░   82.99 % 
-JavaScript               6 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-TypeScript               54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Other                    27 hrs 21 mins      ███████████████████░░░░░░   74.05 % 
+JavaScript               6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Markdown                 2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+TypeScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-Trae                     34 hrs 56 mins      ████████████████░░░░░░░░░   62.02 % 
-Codex CLI                17 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.95 % 
-Exec Wakatime            2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Claude Code              1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Trae                     19 hrs 58 mins      ██████████████░░░░░░░░░░░   54.04 % 
+Codex CLI                13 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   35.46 % 
+Exec Wakatime            2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Claude Code              1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 56 hrs 1 min (99.44%)
+⏱ AI Coding Time: 36 hrs 37 mins (99.14%)
 
 ✍️ 1,333 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,709,383,317 Input Tokens, 10,667,519 Output Tokens
+🔤 681,066,491 Input Tokens, 3,087,972 Output Tokens
 
-💵 $8600.96 Estimated AI Cost This Week
+💵 $3260.75 Estimated AI Cost This Week
 
-🧠 743 AI Sessions, 1298 AI Prompts
+🧠 313 AI Sessions, 656 AI Prompts
 
 Opus                     1,305 lines         █████████████████████░░░░   83.55 % 
 GPT                      257 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
@@ -112,13 +112,13 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,079 characters per prompt
+📚 Verbose Prompter — average 2,924 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/07/2026 16:28:45 UTC
+ Last Updated on 29/07/2026 17:56:18 UTC
 <!--END_SECTION:waka-->
 
 <pre align="center">
